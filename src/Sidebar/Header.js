@@ -12,7 +12,7 @@ class Header extends Component {
             <header className="toolbar">
         <nav className="toolbar_navigation">
             <div>
-                <sideDrawer />
+                
             </div>
             
             <div className="spacer" />
